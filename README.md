@@ -56,7 +56,7 @@ Ce projet est sous licence [MIT](#).
 ```markdown
 # Licence MIT
 
-Copyright (c) [2024] [VotreNom]
+Copyright (c) [2024] [Tifiouse]
 
 ## Conditions de la Licence
 
